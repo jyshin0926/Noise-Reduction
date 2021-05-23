@@ -1,4 +1,4 @@
 # Speech-Processing
 Speech Data Analysis<br>
-Denoise<br>
+Denoise(Noise Reduction)<br>
 Acoustic Model<br>
